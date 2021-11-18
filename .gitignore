@@ -1,1 +1,9 @@
-/cloud2020/.idea
+
+
+**/mvnw
+**/mvnw.cmd
+**/.mvn
+**/*.iml
+**/.gitignore
+**/target
+.idea
